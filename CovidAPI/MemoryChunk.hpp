@@ -7,7 +7,6 @@
 
 #ifndef MemoryChunk_h
 #define MemoryChunk_h
-#include <json.h>
 
 class chunk {
 public:
